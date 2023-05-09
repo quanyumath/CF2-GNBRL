@@ -1,4 +1,4 @@
-# Low-rank tensor recovery
+# Hyperspectral anomaly detection
 
 This is MATLAB implementation of paper "[Generalized nonconvex hyperspectral anomaly detection via background representation learning with dictionary constraint]()".
 
