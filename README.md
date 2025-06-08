@@ -9,15 +9,14 @@ Academic Homepage: https://quanyu.netlify.app/
 # Citation
 If these codes and dataset are helpful for you, please cite this paper:
 ```
-@article{YB23,
+@article{YB24,
 title = {Generalized nonconvex hyperspectral anomaly detection via background representation learning with dictionary constraint},
-journal = {},
-volume = {},
-pages = {},
-year = {2023},
-issn = {},
-doi = {},
-url = {},
+journal = {SIAM Journal on Imaging Sciences},
+volume = {17},
+number = {2},
+pages = {917--950},
+year = {2024},
+doi = {10.1137/23M157363X},
 author = {Quan Yu and Minru Bai}
 }
 ```
